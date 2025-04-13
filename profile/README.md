@@ -1,6 +1,40 @@
 <div align="center">
   
-# KADDEM-DEVOPS
+#  Devops project
+
+
+### 📃 About The Project
+Project that implement DevOps principles in a Spring Boot project to improve development, testing, and deployment
+
+### 🚀 Built With
+
+ You may find below the list of the frameworks/libraries that we used to build our project :
+<br/>
+
+
+  <div align="center">
+	
+
+	
+ <a>
+   <img src="https://github.com/get-icon/geticon/blob/master/icons/jenkins.svg" alt="jenkins" width="150" height="150">
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Srping" width="150" height="150"/>
+  </a>
+   <a href="https://www.docker.com">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="150" height="150"/>
+   </a>
+   <a href="https://www.mysql.com/fr">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="150" height="150"/>
+   </a>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="MySQL" alt="MySQL" width="150" height="150"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original-wordmark.svg" title="MySQL" alt="MySQL" width="150" height="150"/>
+  </div>
+  
+
+
+
 
 
 
@@ -16,26 +50,6 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-8.9.0-red)
 
 </div> 
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Team Members](#team-members)
-- [Technologies](#technologies)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Tests](#tests)
-- [Contributors](#contributors)
-- [License](#license)
-- [References](#references)
-
-## Introduction
-This project is a REST API for a library management system. 
-It allows the management of contracts, students, teams, and departments. 
-It also allows you to search for contracts by title, author, or category. 
-The API is documented with Swagger and the code is tested with JUnit. 
-The project is built with Maven and the application is packaged in a Docker image. 
-The project is deployed on a Jenkins server and the code is analyzed with SonarQube.
 
 ## Team Members
 - [Ayari Hamza](https://github.com/hamzaayarii) : Module Universite.
@@ -61,3 +75,6 @@ The project is divided into 4 layers:
 - **Service**: This layer is responsible for the business logic.
 - **Repository**: This layer is responsible for the data access.
 - **Model**: This layer is responsible for the data structure.
+
+
+Developed with :heart: by **Chill Guys**.
