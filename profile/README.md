@@ -2,6 +2,7 @@
   
 #  Devops project
 
+![image](https://github.com/user-attachments/assets/0aa04609-3e41-4a0b-924b-bec71399fbc7)
 
 ### 📃 About The Project
 Project that implement DevOps principles in a Spring Boot project to improve development, testing, and deployment
@@ -69,6 +70,7 @@ Project that implement DevOps principles in a Spring Boot project to improve dev
 
 
 ## Architecture
+
 The architecture of the project is based on the MVC pattern.
 The project is divided into 4 layers:
 - **Controller**: This layer is responsible for receiving requests and sending responses.
